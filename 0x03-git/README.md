@@ -1,5 +1,5 @@
 # **0x01-git**
->_A new directory that includes a not empty README.md_
+>_A new directory that includes a not empty README.md as requested_
 
 * Steps:
     * Go to the main directory:
